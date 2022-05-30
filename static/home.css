@@ -1,0 +1,31 @@
+
+body{
+    background-image: linear-gradient(to right, #0F5068 , #143B5F, #182154);
+}
+
+#sessao{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 200px;
+    text-align: center;
+    height: 600px;
+    width: 600px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px;
+}
+
+#button{
+    color: white;
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: #1A1F88;
+    font-weight: bold;
+    border: none;
+}
+
+#button:hover{
+    transform: scale(1.2)
+}
